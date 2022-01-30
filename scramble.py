@@ -2,7 +2,6 @@ from multiprocessing.connection import wait
 import random
 import time
 from turtle import delay
-#word = "giraffe"
 
 # this funtion scrambles a word
 def scramble_word(word):
